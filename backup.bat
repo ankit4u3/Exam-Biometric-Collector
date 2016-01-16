@@ -1,0 +1,1 @@
+start /wait /b mysql -uRaceAdmin -pv721PL7y < csbc-digital-biometric-db.sql

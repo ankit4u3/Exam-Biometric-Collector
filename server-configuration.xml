@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Server Configuration</comment>
+<entry key="serverdb">csbc</entry>
+<entry key="imagepath">IMAGE_PHOTO</entry>
+<entry key="serverippath">192.168.1.223</entry>
+<entry key="serveruid">RaceAdmin</entry>
+<entry key="publickey">Public Key Enter Here</entry>
+<entry key="imagestoragepath">Path to Linux Server Images folder</entry>
+<entry key="serverpwd">v721PL7y</entry>
+<entry key="fmtpath">FMT_TEMPLATE</entry>
+<entry key="serveralias">Master Server</entry>
+<entry key="length">4</entry>
+<entry key="privatekey">Private Key Enter Here</entry>
+</properties>
